@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-delta-tan-16.vercel.app/](https://portfolio-delta-tan-16.vercel.app/)
+<-- - 👨‍💻 All of my projects are available at [https://portfolio-delta-tan-16.vercel.app/](https://portfolio-delta-tan-16.vercel.app/) -->
 
 - 💬 Ask me about **FastAPI, NodeJS, MySQL, Express, MongoDB**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/neel-shah-8b5580183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neel-shah-8b5580183" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/neel-shahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neel-shah-8b5580183" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neelshah02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neelshah02" height="30" width="40" /></a>
 </p>
 
