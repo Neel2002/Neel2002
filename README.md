@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neel Shah</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS, FLutter**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-delta-tan-16.vercel.app/](https://portfolio-delta-tan-16.vercel.app/)
 
