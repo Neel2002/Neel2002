@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-<-- - 👨‍💻 All of my projects are available at [https://portfolio-delta-tan-16.vercel.app/](https://portfolio-delta-tan-16.vercel.app/) -->
-
 - 💬 Ask me about **FastAPI, NodeJS, MySQL, Express, MongoDB**
 
 - 📫 How to reach me **neel02.shah@gmail.com**
